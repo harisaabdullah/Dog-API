@@ -1,0 +1,6 @@
+framework module Pods_Dog_Breeds_Dog_BreedsUITests {
+  umbrella header "Pods-Dog Breeds-Dog BreedsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
